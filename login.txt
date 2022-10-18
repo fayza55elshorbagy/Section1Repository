@@ -1,2 +1,2 @@
-void fun(){
-}
+void fun(){}
+void fun()
